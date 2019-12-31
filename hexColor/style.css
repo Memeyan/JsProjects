@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.center{
+    /* border: solid; */
+    margin-top: 45vh;
+}
+
+.c{
+    text-align: center;
+}
+
+.butt{
+    margin-left:45%;
+    height: 50px;
+    width: 150px;
+}
+
+body{
+    background-color: #ffffff;
+}

@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.b{
+    color: white;
+    height: 50px;
+    width: 200px;
+    margin-top: 45vh;
+    margin-left: 45vw;
+    /* text-align: center; */
+    border: solid;
+    border-radius: 5px;
+    border: white;
+    background-color:rgba(134, 122, 122, 0.993);
+}
+
